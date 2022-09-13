@@ -1,11 +1,11 @@
-package database;
+package com.estruturadados.academia.database;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
-import database.dao.AlunoDAO;
-import database.model.Aluno;
+import com.estruturadados.academia.database.dao.AlunoDAO;
+import com.estruturadados.academia.database.model.Aluno;
 
 public class Teste {
 

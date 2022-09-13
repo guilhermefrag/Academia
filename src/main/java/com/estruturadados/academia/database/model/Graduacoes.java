@@ -1,4 +1,4 @@
-package database.model;
+package com.estruturadados.academia.database.model;
 
 public class Graduacoes {
     private String modalidade;

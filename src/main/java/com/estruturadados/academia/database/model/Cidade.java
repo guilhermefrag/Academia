@@ -1,4 +1,4 @@
-package database.model;
+package com.estruturadados.academia.database.model;
 
 public class Cidade {
     private String cidade;

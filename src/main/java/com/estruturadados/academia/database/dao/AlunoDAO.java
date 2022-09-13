@@ -1,4 +1,4 @@
-package database.dao;
+package com.estruturadados.academia.database.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import database.model.Aluno;
+import com.estruturadados.academia.database.model.Aluno;
 
 public class AlunoDAO extends SistemaDAO {
 	

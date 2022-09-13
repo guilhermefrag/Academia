@@ -1,4 +1,4 @@
-package database.dao;
+package com.estruturadados.academia.database.dao;
 
 import java.sql.SQLException;
 import java.util.List;

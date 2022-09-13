@@ -1,4 +1,4 @@
-package database.model;
+package com.estruturadados.academia.database.model;
 
 import java.util.Date;
 
